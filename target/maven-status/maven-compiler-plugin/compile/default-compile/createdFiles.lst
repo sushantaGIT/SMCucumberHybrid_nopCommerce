@@ -1,0 +1,6 @@
+utils\ConfigReader.class
+utils\ElementUtils.class
+pages\CustomersPage.class
+pages\LoginPage.class
+pages\HomePage.class
+utils\CommonUtils.class
